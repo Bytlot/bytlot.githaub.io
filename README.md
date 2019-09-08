@@ -1,1 +1,1 @@
-# bytlot.githaub.io
+# bytlot.github.io
